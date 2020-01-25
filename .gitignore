@@ -1,1 +1,8 @@
+# IDE config
+.idea/
+
+# Build output folder
 /share
+
+# OS garbage
+.DS_Store
