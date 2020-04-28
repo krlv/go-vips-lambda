@@ -1,5 +1,9 @@
 # Libvips AWS Lambda Layer
 
+:warning: This repository is no longer maintained. See https://github.com/jcupitt/docker-builds for the best libvips Dockerfile implementation.
+
+---
+
 Fork of amazing [ruby-vips-lambda](https://github.com/customink/ruby-vips-lambda) project by [customink](https://github.com/customink) with small Golang-related changes.
 
 ## Usage
